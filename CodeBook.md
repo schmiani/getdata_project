@@ -56,7 +56,7 @@ Short summary: 30 subjects, 6 activities, 561 features measured (time and freque
 * 68 variables:
 	* ActivityName: name of activity
 	* ID: ID of subject
-	* 66 features labeled as in "features.txt" of raw data
+	* 66 features labeled as in "features.txt" of raw data (detailed explanation of variables in file "features_info.txt" of data set)
 
 * 180 observations:
 	* 6 Activities
