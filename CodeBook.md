@@ -32,11 +32,11 @@ Got rid of column with activity labeled as numbers (just because it's not necess
 
 #Variables of tidy data set:
 
-*68 variables:
-	*ActivityName: name of activity
-	*ID: ID of subject
-	*66 features labeled as in "features.txt" of raw data
+* 68 variables:
+	* ActivityName: name of activity
+	* ID: ID of subject
+	* 66 features labeled as in "features.txt" of raw data
 
-*180 observations:
-	*6 Activities
-	*30 ssubjects
+* 180 observations:
+	* 6 Activities
+	* 30 ssubjects
