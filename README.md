@@ -1,5 +1,4 @@
-Course Project for "Getting and Cleaning Data"
-===============
+##Course Project for "Getting and Cleaning Data"
 
 To run script:
 
