@@ -11,4 +11,4 @@ Detailed description in CodeBook.md
 
 Since the project description was ambiguous, please read CodeBook about how I understood the steps.
 
-Also, I am aware that the lecture material provided some rules about variable names, but since they were somewhat contractictory, I decided to stick with the original variable names.
+Also, I am aware that the lecture material provided some rules about variable names, but I decided to stick with the original variable names and use CamelCase for my own names. The original variabel names don't have underscores or dots or spaces and even thought they are not all lower case, I find them very well readable myself. They also seem reasonably descriptive to me, especially with the feature_info.txt file that was provided with the data set.
